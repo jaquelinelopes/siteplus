@@ -1,5 +1,7 @@
 /* Quando queremos que um evento aconteça a partir do clique do mouse, utilizamos os botões APAGAR */
 /* Margins criam um espaçamento ao redor do elemento. Paddings criam um espaçamento dentro do elemento. É possível configurar valores de margins diferentes para cada lado. */
+/* Além do github da pra usar o Vercel para publicar */
+/* CLICAR . no teclado para abrir a tela do vscode, fazer alteração, dar CRTL+S para salvar, escrever qual é a mudança e clicar no check para enviar */
 
 :root { /* Serve para pegar o código da cor no projeto(FIGMA) e criar o nome da variavel, assim não precisa digitar o código, pode ser qualquer coisa */
     --branco-principal: #FFFFFF;
